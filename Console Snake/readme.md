@@ -35,7 +35,7 @@ I added in a simple save and load for the highscore. Very insecure but it was fu
 
 I made this as a challenge to myself to make a game outside of Unity. It was fun to try something semi-new (c# is not new but using it outside of the Unity environment was) and I definitely learned a lot.
 
-I'm fairly happy with the way my code came out. I feel that it's for the most part tidy and works smoothly. The only thing I feel a bit unsure about is the use of lots of [static modifiers](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/static). It made things nice and easy to connect since I didn't need to actually instanciate anything but I do feel that things were starting to get a bit spaghetti-ish towards the end of this project. It doesn't seem like an ideal way to do things. Also my code is 100% uncommented... I never felt like I needed any comments for myself and I guess it wouldn't be too hard for someone else to read through it.
+I'm fairly happy with the way my code came out. I feel that it's for the most part tidy and works smoothly. The only thing I feel a bit unsure about is the use of lots of [static modifiers](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/static). It made things nice and easy to connect since I didn't need to actually instanciate anything but I do feel that things were starting to get a bit spaghetti-ish towards the end of this project. It doesn't seem like an ideal way to do things. Also my code is 95% uncommented... I never felt like I needed any comments for myself and I guess it wouldn't be too hard for someone else to read through it.
 
 Not sure what my next project will be but I enjoyed having this small project. Maybe I'll try some more simple console games.
 
